@@ -1,0 +1,6 @@
+title=('LowerCase')
+print(title)
+
+PassarMinusculas = "Today Is A BeautiFul DAY"
+
+print(PassarMinusculas.lower())
